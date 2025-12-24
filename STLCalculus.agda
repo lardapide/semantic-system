@@ -1,5 +1,6 @@
 module STLCalculus where
 
+{-
   open import Data.Bool.Base using (Bool; true; false; T; not)
   open import Data.List.Base using (List; _∷_; [])
   open import Data.Nat.Base using (ℕ; zero; suc)
@@ -9,6 +10,7 @@ module STLCalculus where
   open import Relation.Nullary.Negation using (¬_; contradiction)
   open import Relation.Nullary.Decidable using (Dec; yes; no; False; toWitnessFalse; ¬?)
   open import Relation.Binary.PropositionalEquality using (_≡_; _≢_; refl)
+-}
 
   Id : Set
   Id = String
