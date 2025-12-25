@@ -17,7 +17,7 @@ JANSSEN, Theo; ZIMMERMANN, Thomas. Montague Semantics. In: ZALTA, Edward; NODELM
 
 KOKKE, Wen. One λ-calculus, many times. 2016. Disponível em: <https://wen.works/2016/03/20/one-lambda-calculus-many-times/>. Acesso em 21 de dezembro de 2025.
 
-KOKKE, Wen. NLQ: a modular type-logical grammar for quantifier movement, scope islands, and more. Dissertação (Mestrado em Ciências da Computação e Informação) – Faculdade de Ciências Naturais, Universidade de Utrecht, Utrecht, 2016. Disponível em: <https://studenttheses.uu.nl/>. Acesso em 20 de dezembro de 2025.
+KOKKE, Wen. NLQ: a modular type-logical grammar for quantifier movement, scope islands, and more. Dissertação (Mestrado em Ciências da Computação e Informação) – Faculdade de Ciências Naturais, Universidade de Utrecht, Utrecht, 2016. Disponível em: <https://wen.works/pubs/msc2016.pdf>. Acesso em 20 de dezembro de 2025.
 
 LUO, Zhaohui. A Lambek Calculus with Dependent Types. TYPES 2015, Tallinn, 2015. Disponível em: <https://www.cs.rhul.ac.uk/>. Acesso em 23 de dezembro de 2025.
 
