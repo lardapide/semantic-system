@@ -6,10 +6,10 @@
 
 <img width="307" height="120" alt="image" src="https://github.com/user-attachments/assets/b7f61a74-3970-4bcd-8d32-7ba81aee3f31" />
 
-## Referências
+## Referências (ABNT NBR 14724:2024)
 BORGES NETO, José; MÜLLER, Ana; PIRES DE OLIVEIRA, Roberta. A semântica formal das línguas naturais: histórias e desafios. Revista de Estudos Linguísticos, v. 20, n. 1, pg. 119 - 148, Belo Horizonte, 2012. Disponível em: <https://anamuller.fflch.usp.br/>. Acesso em 22 de dezembro de 2025.
 
-CARPENTER, Bob. Type-Logical Semantics. MIT Press, Cambridge, 1998. DOI: <>.
+CARPENTER, Bob. Type-Logical Semantics. MIT Press, Cambridge, 1998. DOI: <https://doi.org/10.7551/mitpress/6945.001.0001>.
 
 CHURCH, Alonzo. A Formulation of the Simple Theory of Types. The Journal of Symbolic Logic, v. 5, n. 2, pg. 56 - 68, Nova Jersey, 1940. Disponível em: <https://www.classes.cs.uchicago.edu/>. Acesso em 21 de dezembro de 2025.
 
@@ -26,5 +26,7 @@ MONTAGUE, Richard. Universal Grammar. Theoria, v. 36, n. 3, pg. 373 - 398, 1970.
 RANTA, Aarne. Type-Theoretical Grammar. Oxford University Press, Oxford, 1995. DOI: <https://doi.org/10.1093/oso/9780198538578.001.0001>. 
 
 RIJKE, Egbert. Introduction to Homotopy Type Theory. Cambridge University Press, Cambridge Studies in Advanced Mathematics, v. 6, Cambridge, 2025. DOI: <https://doi.org/10.1017/9781108933568>. 
+
+WADLER, Philip; KOKKE, Wen; SIEK, Jeremy. Programming Language Foundations in Agda. v. 22.08, 2022. Disponível em: <https://plfa.inf.ed.ac.uk/22.08/>. Acesso em 27 de dezembro de 2025.
 
 ZWANZIGER, Colin. Montague’s Intensional Logic as Comonadic Type Theory. Dissertação (Mestrado em Lógica, Computação e Metodologia) – Departamento de Filosofia, Universidade Carnegie Mellon, Pensilvânia, 2017. Disponível em: <https://colinzwanziger.com/>. Acesso em 21 de dezembro de 2025.
